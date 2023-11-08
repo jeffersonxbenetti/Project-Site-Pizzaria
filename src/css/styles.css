@@ -80,7 +80,7 @@ html {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: linear-gradient(rgba(29, 29, 29, 0.8), rgba(29, 29, 29, 0.8)), url("/src/img/fundopizza.jpg");
+    background-image: linear-gradient(rgba(29, 29, 29, 0.8), rgba(29, 29, 29, 0.8)), url("../img/fundopizza.jpg");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
