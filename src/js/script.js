@@ -1,4 +1,4 @@
-const show = true //VARIÁVEL QUE TERÁ O VALOR SEMPRE VERDADEIRO
+let show = true //VARIÁVEL QUE TERÁ O VALOR SEMPRE VERDADEIRO
 const menuContent = document.querySelector('.content')
 const menuToggle = document.querySelector('.menu-toggle')
 
